@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # grain-storage-monitoring-system-using-I2C-protocol-
 An FPGA-based Verilog simulation that models I²C communication and automated temperature–humidity control for grain storage monitoring. The system uses threshold-based logic to trigger virtual actuators like fan, heater, cooler, and buzzer for maintaining safe storage conditions.
 
@@ -28,3 +29,6 @@ tb_i2c_env.v	     :  Complete testbench integrating all modules for simulation
 -Verilog HDL
 -Behavioral Simulation (xsim)
 -Basys 3 (hardware)
+=======
+# grain-storage-monitoring-system-using-I2C-protocol-
+>>>>>>> 27648c47d4dad8c49c796e9a050d401fb7c5016e
